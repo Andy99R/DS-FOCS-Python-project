@@ -5,7 +5,8 @@ DESCRIPTION: This project was realized for the Foundations of Computer Science c
 
 Files: 
 project -> a jupyter notebook that contains 15 questions and respective answers. 
-
+Questions and Notes -> a jupyter notebook that has the raw questions and some guidelines 
+README -> this file :)
 DATASET INFO:
 Source-> https://www.research-collection.ethz.ch/handle/20.500.11850/626723
 
